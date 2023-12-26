@@ -1459,3 +1459,32 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+/*--------------------------------------------------------------
+# table
+--------------------------------------------------------------*/
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  
+}
+
+h2 {
+  color: #000000;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+} 
+
+th, td {
+  border: 2px solid #000000;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #0ecbe8;
+  font-weight: bold;
+}
